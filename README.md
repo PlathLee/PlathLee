@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlathLee
 - 👀 I’m interested in LNG Tank System Process Simulation
-- 🌱 I’m currently learning c#, DWSIM with c#
+- 🌱 I’m currently learning DWSIM with c#
 - 💞️ I’m looking to collaborate on the UI development
 - 📫 How to reach me plathlee@163.com
 - 😄 Pronouns: ...
